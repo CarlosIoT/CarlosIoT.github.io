@@ -200,7 +200,7 @@ color: white;
         display: grid;
         gap: 5px;
         grid-template: 
-        "header" 4%
+        "header" 7%
         "section"
         "aside"
         "anuncios"
